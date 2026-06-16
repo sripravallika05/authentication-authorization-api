@@ -1,7 +1,7 @@
 # 🔐 Authentication & Authorization API
 
 A secure backend system built using **Node.js, Express, PostgreSQL, and JWT**
-This project provides user authentication, authorization, and role-based access control.
+This project provides user authentication, authorization, and role-based access control
 
 ---
 
